@@ -83,4 +83,3 @@ Note: A login Windows will appear and may be hidden behind the Terminal.
 The script outputs information to JSON files and reports issues it finds, as shown in Figure 2.
 
 The scripts use PowerShell 5.1; this was chosen due to a limitation on the AzureAD PowerShell. The code will need to use Microsoft Azure Graph API to enable the code to run on the current PowerShell 7.
-
